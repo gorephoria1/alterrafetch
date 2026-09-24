@@ -18,7 +18,8 @@ arch/manjaro/endeavor/cachyos sudo pacman -S make
 ```bash
 sudo make install
 ```
-```supported operating systems
+supported operating systems
+```here
 fedora 44 45 43
 termux on android 16 17 15 14 13
 debian 13 12
@@ -27,11 +28,13 @@ ubuntu 26.04 25.10
 kali linux
 arch linux
 ```
-```unsupported operating systems
+unsupported operating systems
+```here
 windows 11 10
 Ios 27 26 18 17
 ```
-```upcoming ports
+upcoming ports
+```here
 freebsd 15 14
 openbsd
 netbsd
