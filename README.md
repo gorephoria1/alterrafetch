@@ -40,4 +40,12 @@ freebsd 15 14
 openbsd
 netbsd
 opensuse
+voidlinux
+```
+ports that will never come
+```here
+wubuntu
+uwuntu
+pearos
+ubuntu unity
 ```
