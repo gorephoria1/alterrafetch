@@ -21,7 +21,7 @@ sudo make install
 supported operating systems
 ```here
 fedora 44 45 43
-termux on android 16 17 15 14 13
+android 16 17 15 14 13
 debian 13 12
 linux mint 22.3 22.2
 ubuntu 26.04 25.10
