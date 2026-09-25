@@ -18,6 +18,15 @@ arch/manjaro/endeavor/cachyos sudo pacman -S make
 ```bash
 sudo make install
 ```
+install it thru your package manager
+
+```here
+debian/ubuntu/mint/kali sudo add-apt-repository ppa:gorephoria1/alterrafetch
+sudo apt update
+sudo apt install alterrafetch
+fedora coming soon
+arch coming soon
+```
 supported operating systems
 ```here
 fedora 44 45 43
