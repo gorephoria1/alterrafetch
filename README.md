@@ -1,4 +1,4 @@
-this is a beta version of alterrafetch so be ready for bugs errors etc
+alterrafetch 1.0 released today!
 to install alterrafetch git clone it first aka the universal install
 1 git clone it 
 ```bash
