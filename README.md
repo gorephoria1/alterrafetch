@@ -1,4 +1,4 @@
-alterrafetch 1.0 released today!
+alterrafetch 1.0 released on the 29th!
 to install alterrafetch git clone it first aka the universal install
 1 git clone it 
 ```bash
